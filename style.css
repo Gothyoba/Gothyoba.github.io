@@ -6,4 +6,5 @@ body {
 h1 {
   outline-style: outset;
   outline-color: green;
+  outline-width: 5px;
 }
