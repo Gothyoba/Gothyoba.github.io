@@ -2,3 +2,8 @@ body {
   text-align: center;
   font-family: Helvetica;
 }
+
+h1 {
+   outline-style: outset;
+   outline-color: green;
+}
