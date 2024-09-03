@@ -1,9 +1,11 @@
 body {
+  background-color: black;
   text-align: center;
+  text-color: white;
   font-family: Helvetica;
 }
 
 h1 {
-  outline-style: outset;
   outline-color: green;
+  outline-style: outset;
 }
