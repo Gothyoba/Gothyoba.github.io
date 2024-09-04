@@ -1,5 +1,5 @@
-Gothyoba
+# Irdyacraft
 
-This is a place for my HTML projects.
+A website for thr Irdyacraft project.
 
 Link: https://Gothyoba.github.io
